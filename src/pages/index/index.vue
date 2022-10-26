@@ -52,6 +52,7 @@ export default {
     return {
       scrollTop: 0,
       toView: 'demo2'
+			
     }
   },
   methods: {
