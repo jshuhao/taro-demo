@@ -1,2 +1,2 @@
 # taro-demo
-scroll-view bug demo
+scroll-view demo
